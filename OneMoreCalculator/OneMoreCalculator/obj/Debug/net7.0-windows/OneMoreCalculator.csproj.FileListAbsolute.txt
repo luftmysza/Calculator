@@ -1,0 +1,16 @@
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\bin\Debug\net7.0-windows\OneMoreCalculator.exe
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\bin\Debug\net7.0-windows\OneMoreCalculator.deps.json
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\bin\Debug\net7.0-windows\OneMoreCalculator.runtimeconfig.json
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\bin\Debug\net7.0-windows\OneMoreCalculator.dll
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\bin\Debug\net7.0-windows\OneMoreCalculator.pdb
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.Form1.resources
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.csproj.GenerateResource.cache
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.AssemblyInfoInputs.cache
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.AssemblyInfo.cs
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.csproj.CoreCompileInputs.cache
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.dll
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\refint\OneMoreCalculator.dll
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.pdb
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\OneMoreCalculator.genruntimeconfig.cache
+D:\Users\dzmitry.zaitsau\source\repos\OneMoreCalculator\OneMoreCalculator\obj\Debug\net7.0-windows\ref\OneMoreCalculator.dll
